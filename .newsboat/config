@@ -1,0 +1,10 @@
+# Newsboat configuration
+
+# Set Firefox as the default browser
+browser "firefox %u"
+
+# Configure the 'y' key macro to open links in mpv
+macro y set browser "mpv %u" ; open-in-browser ; set browser "firefox %u"
+
+# Additional configuration options can be added below if needed
+

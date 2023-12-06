@@ -1,0 +1,43 @@
+"/home/mint/Documents/bashscripts/codepen.sh"
+    Alt + m:0x0 + c:191
+
+"/home/mint/Documents/bashscripts/blog.sh"
+    Control + m:0x0 + c:191
+
+"/home/mint/Documents/bashscripts/blogedit.sh"
+    Shift + m:0x0 + c:191
+
+# 13, 14, 15
+"firefox"
+    m:0x0 + c:191
+
+"kitty"
+    m:0x0 + c:192
+
+"xfce4-terminal"
+    Control + m:0x0 + c:192
+
+"xfce4-terminal -e '/home/mint/Documents/bashscripts/noise.sh'"
+  Shift + m:0x0 + c:192
+
+"code"
+    Control + m:0x0 + c:193
+
+"subl"
+    m:0x0 + c:193
+
+#16, 17, 18, 19
+"mousepad"
+    m:0x0 + c:194
+
+"kolourpaint"
+    m:0x0 + c:195
+
+"/home/mint/Documents/bashscripts/youtube.sh"
+    m:0x0 + c:196
+
+"/home/mint/Documents/bashscripts/chatgpt.sh"
+    m:0x0 + c:197
+
+"scrot '/home/mint/Pictures/screenshots/%Y-%m-%d_%H-%M-%S.png' -s"
+  Control + Shift + 4
